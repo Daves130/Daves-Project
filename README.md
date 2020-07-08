@@ -1,2 +1,2 @@
-# Daves-Project
-AyitiAnalytics
+# churn-data-analysis
+churn-data-analysis
